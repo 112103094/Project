@@ -24,7 +24,7 @@ def add_food():
     food_window = Tk()
     food_window.title("Add Food")
     food_window.geometry("900x800")
-    food_window.configure(bg="#ffffff")  # Set background color
+    food_window.configure(bg="#ffff0f")  # Set background color
 
     name_label = Label(food_window, text="Name:", font=("Arial", 34), bg="#ffffff", fg="#ff0000")  # Set label colors
     name_label.pack(pady=30)
