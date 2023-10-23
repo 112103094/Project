@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tkinter import Tk, Label, Entry, Button, font
 
-CALORIE_GOAL_LIMIT = 3000   # kcal
+CALORIE_GOAL_LIMIT = 5000   # kcal
 PROTEIN_GOAL = 180  # grams
 FAT_GOAL = 80  # grams
 CARBS_GOAL = 300  # grams
