@@ -1,2 +1,2 @@
 # project
- this is my project
+ This is a Calorie Tracker Project
